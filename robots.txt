@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yinanwang-iis.github.io/sitemap.xml
