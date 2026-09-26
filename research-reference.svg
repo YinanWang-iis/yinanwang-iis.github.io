@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc"><title id="title">Single-atom reference and absolute transition energy</title><desc id="desc">Conceptual illustration of an all-electron atomic reference contributing to an absolute transition energy. Orbital rings and energy levels are schematic, not quantitative results.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#315d50"/></marker></defs><rect width="640" height="360" fill="#f8faf8"/><g font-family="Arial,sans-serif" font-size="24" fill="#34473e">
+<text x="40" y="42">Atomic reference</text><text x="376" y="42">Transition energy</text>
+<g transform="translate(160 170)"><circle r="78" fill="none" stroke="#cbd8d0" stroke-width="2"/><circle r="48" fill="none" stroke="#91ab9f" stroke-width="2"/><circle r="20" fill="#315d50"/><circle cx="48" r="7" fill="#a97945"/><circle cx="-48" r="7" fill="#a97945"/><circle cy="-78" r="7" fill="#315d50"/><circle cy="78" r="7" fill="#315d50"/></g>
+<path d="M263 170H327" fill="none" stroke="#315d50" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M366 258H597" stroke="#7c8781" stroke-width="2"/><path d="M366 156H475" stroke="#a97945" stroke-width="3" stroke-dasharray="7 5"/><path d="M464 100H597" stroke="#315d50" stroke-width="3"/>
+<path d="M402 248V166" stroke="#a97945" stroke-width="3"/><path d="M395 176L402 164L409 176" stroke="#a97945" fill="none" stroke-width="3"/>
+<path d="M548 248V112" stroke="#315d50" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M482 153V105" stroke="#315d50" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="397" y="291" text-anchor="middle">XCH</text><text x="548" y="291" text-anchor="middle">Corrected</text>
+<text x="160" y="291" text-anchor="middle">All-electron atom</text><text x="482" y="337" text-anchor="middle" font-size="22">Atomic reference change</text></g></svg>
