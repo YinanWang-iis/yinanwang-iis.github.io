@@ -9,7 +9,8 @@ Live site: https://yinanwang-iis.github.io/
 - index.html：个人介绍、News、教育、研究方向、技能
 - profile.html：个人经历
 - research.html：Core-loss spectroscopy 与 2D ferroelectric materials 研究介绍
-- pub-and-talks.html：论文与会议报告
+- projects.html：开源科研软件项目与验证结果
+- pub-and-talks.html：同行评审论文、预印本与会议报告
 - links.html：CV 与外部链接
 - gallery.html：相册
 - style.css：颜色、排版和移动端布局
